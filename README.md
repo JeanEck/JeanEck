@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JeanEck
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @JeanEckan
+- 👀 I’m interested in ... Aprender, curiosear y experimentar
+- 🌱 I’m currently learning ... python
+- 💞️ I’m looking to collaborate on ...  Análisis Estadístico
+- 📫 How to reach me ... becks.eckan@gmail.com 
 
 <!---
 JeanEck/JeanEck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
